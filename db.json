@@ -19,6 +19,11 @@
       "name": "Conta de luz",
       "amount": -150,
       "id": "5"
+    },
+    {
+      "id": "e2c0",
+      "name": "extra",
+      "amount": 500
     }
   ]
 }
